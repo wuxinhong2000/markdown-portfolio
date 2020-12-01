@@ -1,2 +1,2 @@
 # Dongfang Wenxin
-## We knows no king but the King of North whoes name is Stack.
+## We knows no king but the King in the North whoes name is Stack.
